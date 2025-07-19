@@ -1,2 +1,2 @@
 # AI-Picture-generate
-I am using different AI platforms to generate pictures using prompts. For Graphic or Web design for example.
+I am using different AI platforms to generate pictures using prompts. For Graphic or Web design for example. I am using many AI platforms like ChatGpt, Gemini, Leonardo, Microsoft Designer, Remini, Claude, Adobe Express/Firefly...
