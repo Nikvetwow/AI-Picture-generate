@@ -1,3 +1,6 @@
 # AI-Picture-generate
 I am using different AI platforms to generate pictures using prompts. For Graphic or Web design for example. I am using many AI platforms like ChatGpt, Gemini, Leonardo, Microsoft Designer, Remini, Claude, Adobe Express/Firefly...
 Also I am using Microsoft Publisher and Adobe Photoshop sometimes for manual corrections.
+
+Използвам различни платформи на ИИ, за да създам изображения, само чрез запитвания. За Графичен и Уеб дизайн, например. Използвам много ИИ платформи като ChatGpt, Gemini, Leonardo, Microsoft Designer, Remini, Claude, Adobe Express/Firefly...
+Също така, понякога употребявам Microsoft Publisher и Adobe Photoshop, за ръчни корекции.
